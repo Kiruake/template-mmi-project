@@ -1,0 +1,11 @@
+{
+  "name": "template-mmi-project",
+  "version": "1.0.0",
+  "description": "Le fichier `index.html`, dans le dossier `MMI`, contient un modèle de page dans lequel vous devez renseigner l'ensemble des informations et liens de vos divers projets pédagogiques.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
